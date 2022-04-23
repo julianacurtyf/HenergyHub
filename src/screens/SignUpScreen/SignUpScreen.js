@@ -11,7 +11,7 @@ import AlertButton from '../../components/AlertButton';
 const reviewSchema = yup.object({
     firstName: yup.string().required("O campo é obrigatório."),
     lastName: yup.string().required("O campo é obrigatório."),
-    cpf: yup.number("O CPF deve ser um número.").required("O campo é obrigatório.").min(11, "O cpf precisa ter 11 caracteres."),
+    cc: yup.number("O cc deve ser um número.").required("O campo é obrigatório.").min(11, "O cc precisa ter 11 caracteres."),
     cep: yup.number("O CEP deve ser um número.").required("O campo é obrigatório."),
     email: yup.string().email("E-mail inválido.").required("O campo é obrigatório."),
     password: yup.string().required("O campo é obrigatório.").min(8, "A senha precisa ter um mínimo de 8 caracteres."),
@@ -50,7 +50,7 @@ export default function SignUpScreen({ navigation }) {
             </View>
             <View style={{ paddingTop: 20 }}>
                 <Formik
-                    initialValues={{ firstName: '', lastName: '', cpf: '', email: '', password: '', age: '', cep: '', uf: 'AC', gender: 'F', scholar: 'Ensino Fundamental Incompleto', race: 'Branca', journalist: 'Não' }}
+                    initialValues={{ firstName: '', lastName: '', cc: '', email: '', password: '', age: '', cep: '', cidade: '', gender: 'F', scholar: 'Ensino Fundamental Incompleto', race: 'Branca', journalist: 'Não' }}
                     validationSchema={reviewSchema}
                     onSubmit={(values, actions) => {
                         actions.resetForm();
@@ -83,14 +83,14 @@ export default function SignUpScreen({ navigation }) {
                                 <Text style={MyStyles.descriptionInput}>CC:</Text>
                                 <View style={MyStyles.inputContainer}>
                                     <TextInput
-                                        placeholder='CPF'
+                                        placeholder='cc'
                                         placeholderTextColor='gray'
-                                        onChangeText={props.handleChange('cpf')}
-                                        value={props.values.cpf}
+                                        onChangeText={props.handleChange('cc')}
+                                        value={props.values.cc}
                                         keyboardType='numeric'
                                     />
                                 </View>
-                                <Text style={MyStyles.errorText}>{props.touched.cpf && props.errors.cpf}</Text>
+                                <Text style={MyStyles.errorText}>{props.touched.cc && props.errors.cc}</Text>
                                 <Text style={MyStyles.descriptionInput}>Email:</Text>
                                 <View style={MyStyles.inputContainer}>
                                     <TextInput
@@ -124,7 +124,7 @@ export default function SignUpScreen({ navigation }) {
                                     />
                                 </View >
                                 <Text style={MyStyles.errorText}>{props.touched.age && props.errors.age}</Text>
-                                <Text style={MyStyles.descriptionInput}>CEP:</Text>
+                                <Text style={MyStyles.descriptionInput}>Código Postal:</Text>
                                 <View style={MyStyles.inputContainer}>
                                     <TextInput
                                         placeholder='CEP'
@@ -134,43 +134,18 @@ export default function SignUpScreen({ navigation }) {
                                         keyboardType='numeric'
                                     />
                                 </View >
-                                <Text style={MyStyles.errorText}>{props.touched.age && props.errors.age}</Text>
-                                <Text style={MyStyles.descriptionInput}>Estado (UF):</Text>
-                                <View style={{ padding: 10 }}>
-                                    <Picker
-                                        selectedValue={props.values.uf}
-                                        onValueChange={props.handleChange('uf')}
-                                        itemStyle={{ fontSize: RFValue(16, 844), height: 50, width: 100 }}
-                                    >
-                                        <Picker.Item label="AC" value="AC" />
-                                        <Picker.Item label="AL" value="AL" />
-                                        <Picker.Item label="AP" value="AP" />
-                                        <Picker.Item label="AM" value="AM" />
-                                        <Picker.Item label="BA" value="BA" />
-                                        <Picker.Item label="CE" value="CE" />
-                                        <Picker.Item label="DF" value="DF" />
-                                        <Picker.Item label="ES" value="ES" />
-                                        <Picker.Item label="GO" value="GO" />
-                                        <Picker.Item label="MA" value="MA" />
-                                        <Picker.Item label="MT" value="MT" />
-                                        <Picker.Item label="MS" value="MS" />
-                                        <Picker.Item label="MG" value="MG" />
-                                        <Picker.Item label="PA" value="PA" />
-                                        <Picker.Item label="PB" value="PB" />
-                                        <Picker.Item label="PR" value="PR" />
-                                        <Picker.Item label="PE" value="PE" />
-                                        <Picker.Item label="PI" value="PI" />
-                                        <Picker.Item label="RJ" value="RJ" />
-                                        <Picker.Item label="RN" value="RN" />
-                                        <Picker.Item label="RS" value="RS" />
-                                        <Picker.Item label="RO" value="RO" />
-                                        <Picker.Item label="RR" value="RR" />
-                                        <Picker.Item label="SC" value="SC" />
-                                        <Picker.Item label="SP" value="SP" />
-                                        <Picker.Item label="SE" value="SE" />
-                                        <Picker.Item label="TO" value="TO" />
-                                    </Picker>
-                                </View>
+                                <Text style={MyStyles.errorText}>{props.touched.cep && props.errors.cep}</Text>
+                                <Text style={MyStyles.descriptionInput}>Cidade:</Text>
+                                <View style={MyStyles.inputContainer}>
+                                    <TextInput
+                                        placeholder='Cidade'
+                                        placeholderTextColor='gray'
+                                        onChangeText={props.handleChange('cidade')}
+                                        value={props.values.cidade}
+                                        keyboardType='numeric'
+                                    />
+                                </View >
+                                <Text style={MyStyles.errorText}>{props.touched.cidade && props.errors.cidade}</Text>
                                 <Text style={MyStyles.descriptionInput}>Gênero:</Text>
                                 <View style={{ padding: 10 }}>
                                     <Picker
@@ -181,22 +156,6 @@ export default function SignUpScreen({ navigation }) {
                                         <Picker.Item label="Feminino" value="F" />
                                         <Picker.Item label="Masculino" value="M" />
                                         <Picker.Item label="Outro" value="Outro" />
-                                    </Picker>
-                                </View>
-                                <Text style={MyStyles.descriptionInput}>Escolaridade:</Text>
-                                <View style={{ padding: 10 }}>
-                                    <Picker
-                                        selectedValue={props.values.scholar}
-                                        onValueChange={props.handleChange('scholar')}
-                                        itemStyle={{ fontSize: RFValue(16, 844), height: 50, width: 260 }}
-                                    >
-                                        <Picker.Item label="Ensino Fundamental Incompleto" value="Fundamental Incompleto" />
-                                        <Picker.Item label="Ensino Fundamental Completo" value="Fundamental Completo" />
-                                        <Picker.Item label="Ensino Médio Incompleto" value="Ensino Médio Incompleto" />
-                                        <Picker.Item label="Ensino Médio Completo" value="Ensino Médio Completo" />
-                                        <Picker.Item label="Ensino Superior Incompleto" value="Ensino Superior Incompleto" />
-                                        <Picker.Item label="Ensino Superior Completo" value="Ensino Superior Completo" />
-                                        <Picker.Item label="Pós Graduação" value="Pós Graduação" />
                                     </Picker>
                                 </View>
                                 <Text style={MyStyles.descriptionInput}>Raça:</Text>

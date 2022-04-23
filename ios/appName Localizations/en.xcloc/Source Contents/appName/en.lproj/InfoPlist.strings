@@ -1,6 +1,0 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "MeuVoto";
-/* Bundle name */
-"CFBundleName" = "appName";
-/* Privacy - Location When In Use Usage Description */
-"NSLocationWhenInUseUsageDescription" = "";

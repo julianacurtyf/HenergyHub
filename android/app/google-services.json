@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:886393199389:android:f73f6c9814763fb4185ff4",
         "android_client_info": {
-          "package_name": "com.appname"
+          "package_name": "com.HenergyHub"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "886393199389-sdec4brujtidtdtdhj36v0skpe4ch984.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "org.reactjs.native.example.appName"
+                "bundle_id": "org.reactjs.native.example.HenergyHub"
               }
             }
           ]

@@ -7,7 +7,7 @@ require 'json'
 podfile_properties = JSON.parse(File.read('./Podfile.properties.json')) rescue {}
 
 
-target 'appName' do
+target 'HenergyHub' do
   config = use_native_modules!
 
   use_react_native!(
@@ -17,7 +17,7 @@ target 'appName' do
   )
 
 
-  target 'appNameTests' do
+  target 'HenergyHubTests' do
     inherit! :complete
     # Pods for testing
   end
