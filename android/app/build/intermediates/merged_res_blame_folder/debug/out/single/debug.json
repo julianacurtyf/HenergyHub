@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo3.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_car.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_car.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_hall.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_hall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_aldo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_aldo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_keka.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_keka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_se_edvaldo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_se_edvaldo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_castro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_castro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_to_luana.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_to_luana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_go_perillo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_go_perillo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ap_piedade.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ap_piedade.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_dantas.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_al_dantas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_beto.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_beto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ba_jeronimo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ba_jeronimo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mg_medioli.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mg_medioli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_jhc.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_al_jhc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_rosilene.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_rosilene.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_zeca.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_zeca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_neves.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_neves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_carlos.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_carlos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_simone.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_simone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_anderson.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_anderson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_nina.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_nina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ma_weverton.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ma_weverton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mg_kalil.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mg_kalil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_go_caiado.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_go_caiado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pi_fonteles.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pi_fonteles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_lyra.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_lyra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rr_teresa.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rr_teresa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_am_jose.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_am_jose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_stats.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_stats.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mt_wilson.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mt_wilson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_gladson.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_gladson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_se_fabio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_se_fabio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_onyx.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_onyx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_renan.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_renan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mg_zema.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mg_zema.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_ciro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_ciro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_arraes.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_arraes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pb_lima.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pb_lima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_plan.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_plan.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_clorisa.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_clorisa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ma_carl.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ma_carl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_rose.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_rose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ba_neto.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ba_neto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_pucinelli.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_pucinelli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_leite.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_leite.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_abraham.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_abraham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_ezequiel.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_ezequiel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_benes.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_benes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mt_ari.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mt_ari.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_go_gustavo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_go_gustavo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_decio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_decio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pi_joa.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pi_joa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pa_fernando.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pa_fernando.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ro_moura.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ro_moura.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_am_mendes.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_am_mendes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_franca.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_franca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_bolsonaro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_bolsonaro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pb_vital.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pb_vital.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rr_ant.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rr_ant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_am_lima.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_am_lima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ba_kleber.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ba_kleber.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_pereira.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_al_pereira.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_vote.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ro_hildon.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ro_hildon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mg_viana.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mg_viana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pa_marcio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pa_marcio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_jorge.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_jorge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_ruas.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_ruas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo2.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rr_pastor.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rr_pastor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_berger.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_berger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_to_dimas.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_to_dimas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_haddad.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_haddad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_menu.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_audifax.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_audifax.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_heinze.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_heinze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_bolsonaro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_bolsonaro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_garcia.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_garcia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_to_damaso.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_to_damaso.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_arnaldo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_arnaldo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_ganime.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_ganime.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_trad.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_trad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ap_lucas.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ap_lucas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ma_lahesio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ma_lahesio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_to_mourao.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_to_mourao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_parente.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_parente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_coruja.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_coruja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_doria.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_doria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ro_marcos.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ro_marcos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pi_gessy.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pi_gessy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_amin.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_amin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_majeski.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_majeski.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_alessandro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_alessandro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_serra.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_serra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_elvis.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_elvis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_izalci.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_izalci.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pa_helder.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pa_helder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_cyro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_cyro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_manato.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_manato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ap_clecio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ap_clecio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_lula.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_lula.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pr_fier.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pr_fier.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_go_darrot.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_go_darrot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo2_v1.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo2_v1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_fernando.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_fernando.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ro_rocha.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ro_rocha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_dias.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_dias.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_hartung.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_hartung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pb_joao.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pb_joao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_riedel.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_riedel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pa_zequinha.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pa_zequinha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pr_ratinho.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pr_ratinho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rs_edegar.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rs_edegar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_mt_mauro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_mt_mauro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_se_valmir.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_se_valmir.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_moro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_moro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_rigoni.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_rigoni.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_se_vieira.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_se_vieira.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pi_major.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pi_major.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_mello.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_mello.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ce_cap.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ce_cap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ap_gesiel.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ap_gesiel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_zanon.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_zanon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_am_pazuello.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_am_pazuello.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pb_adjany.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pb_adjany.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ms_trutis.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ms_trutis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_miguel.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_miguel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_sergio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_sergio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_leonardo.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_leonardo.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pr_requiao.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pr_requiao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_grass.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_grass.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_to_laurez.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_to_laurez.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_df_salles.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_df_salles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pb_nilvan.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pb_nilvan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_freixo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_freixo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_lula.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_lula.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rj_felipe.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_felipe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_avila.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_avila.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ce_adelita.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ce_adelita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_cabral.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_cabral.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_es_casagrande.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_es_casagrande.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_email.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_email.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_bezerra.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_bezerra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ce_evandro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ce_evandro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_janones.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_janones.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_moro.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_moro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_armando.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_armando.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_jo.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_jo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_jones.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pe_jones.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_sty.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rn_sty.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_antonio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_al_antonio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_cunha.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_al_cunha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pi_silvio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_pi_silvio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_poit.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_poit.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sp_tarcisio.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_tarcisio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ba_damico.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ba_damico.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

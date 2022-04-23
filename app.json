@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "appName",
+    "slug": "appName",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "jsEngine": "hermes",
+    "owner": "julianacurtyf",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.appname",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.appname",
+      "versionCode": 1
+    }
+  },
+  "name": "appName",
+  "displayName": "appName"
+  
+}
