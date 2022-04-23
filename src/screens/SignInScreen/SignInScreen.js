@@ -10,14 +10,11 @@ export default function SignInScreen({ navigation }) {
     const [password, setPassword] = useState('');
     const {height} = useWindowDimensions();
     var database = require('../../database/database.js');
+
     global.user = '';
-    global.presidents = '';
-    global.governors = '';
-    global.update = false;
 
     const onSignInPressed = () => {
-      database.getAllPresidents();
-      database.getAllGovernors();
+
       database.verifyUserByEmailAndPassword(email, password, navigation);
     };
 
@@ -39,7 +36,7 @@ export default function SignInScreen({ navigation }) {
           <Image source={Logo} style={[MyStyles.logo, {height: height*0.3}]} resizeMode='contain'/>
           
           <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
-            <CustomInput placeholder="Email" onChangeText={(email) => setEmail(email)}/>
+            <CustomInput placeholder="Email ou número da conta" onChangeText={(email) => setEmail(email)}/>
           </TouchableWithoutFeedback>
 
           <TouchableWithoutFeedback onPress={Keyboard.dismiss}>

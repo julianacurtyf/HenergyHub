@@ -27,15 +27,15 @@ export default function ForgotPasswordScreen({ navigation }) {
         GenerateRandomNumber();
         console.log(code);
         RNSmtpMailer.sendMail({
-            mailhost: "smtpout.secureserver.net",
+            mailhost: "smtp.gmail.com",
             port: "465",
             ssl: true, // optional. if false, then TLS is enabled. Its true by default in android. In iOS TLS/SSL is determined automatically, and this field doesn't affect anything
-            username: "meuvoto2022@meuvotobrasil.com.br",
-            password: "HLoeur0558ffjg214094dlfpr",
-            fromName: "Meu voto", // optional
-            replyTo: "meuvoto2022@meuvotobrasil.com.br", // optional
+            username: "henergyhub@gmail.com",
+            password: "henergyhub-22",
+            fromName: "Henergy Hub", // optional
+            replyTo: "henergyhub@gmail.com", // optional
             recipients: email,
-            subject: "MeuVoto - Trocar a senha",
+            subject: "Henergy Hub - Trocar a senha",
             htmlBody: code.toString(),
           })
             .then(success => console.log(success))

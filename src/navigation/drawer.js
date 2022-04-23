@@ -21,7 +21,6 @@ const Navigation = () => {
                 <Drawer.Screen name="Vote" component={VoteStack} options={{ title: "Votar" }}/>
                 <Drawer.Screen name="Stats" component={StatisticStack} options={{ title: "Estatísticas" }}/>
                 <Drawer.Screen name="Analise" component={AnaliseStack} options={{ title: "Análise Personalizada" }}/>
-                <Drawer.Screen name="Subscription" component={SubsStack} options={{ title: "Mudança de Plano" }}/>
                 <Drawer.Screen name="Sair" component={SignInStack}/>
             </Drawer.Navigator>
         </NavigationContainer>

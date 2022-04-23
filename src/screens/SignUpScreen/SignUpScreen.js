@@ -16,21 +16,17 @@ const reviewSchema = yup.object({
     email: yup.string().email("E-mail inválido.").required("O campo é obrigatório."),
     password: yup.string().required("O campo é obrigatório.").min(8, "A senha precisa ter um mínimo de 8 caracteres."),
     age: yup.number().required("O campo é obrigatório.").positive("O campo deve ser positivo.").integer("O campo deve ser um número inteiro.").min(16, "A idade mínima deve ser 16 anos."),
+    cidade: yup.string().required("O campo é obrigatório."),
+    distrito: yup.string().required("O campo é obrigatório."),
 });
 
 
 export default function SignUpScreen({ navigation }) {
-    global.user = '';
-    global.presidents = '';
-    global.governors = '';
-    global.update = false;
 
     var database = require('../../database/database.js');
 
     const onRegisterPressed = (values, navigation) => {
-
-            database.getAllPresidents();
-            database.getAllGovernors();
+        
             AlertButton('Cookies', 'Os seus dados não serão utilizados comercialmente.');
             
             database.insertUser(values, navigation);
@@ -50,7 +46,7 @@ export default function SignUpScreen({ navigation }) {
             </View>
             <View style={{ paddingTop: 20 }}>
                 <Formik
-                    initialValues={{ firstName: '', lastName: '', cc: '', email: '', password: '', age: '', cep: '', cidade: '', gender: 'F', scholar: 'Ensino Fundamental Incompleto', race: 'Branca', journalist: 'Não' }}
+                    initialValues={{ firstName: '', lastName: '', cc: '', email: '', password: '', age: '', cep: '', cidade: '', gender: 'F', distrito: ''}}
                     validationSchema={reviewSchema}
                     onSubmit={(values, actions) => {
                         actions.resetForm();
@@ -146,6 +142,17 @@ export default function SignUpScreen({ navigation }) {
                                     />
                                 </View >
                                 <Text style={MyStyles.errorText}>{props.touched.cidade && props.errors.cidade}</Text>
+                                <Text style={MyStyles.descriptionInput}>Distrito:</Text>
+                                <View style={MyStyles.inputContainer}>
+                                    <TextInput
+                                        placeholder='Distrito'
+                                        placeholderTextColor='gray'
+                                        onChangeText={props.handleChange('distrito')}
+                                        value={props.values.distrito}
+                                        keyboardType='numeric'
+                                    />
+                                </View >
+                                <Text style={MyStyles.errorText}>{props.touched.distrito && props.errors.distrito}</Text>
                                 <Text style={MyStyles.descriptionInput}>Gênero:</Text>
                                 <View style={{ padding: 10 }}>
                                     <Picker
@@ -156,31 +163,6 @@ export default function SignUpScreen({ navigation }) {
                                         <Picker.Item label="Feminino" value="F" />
                                         <Picker.Item label="Masculino" value="M" />
                                         <Picker.Item label="Outro" value="Outro" />
-                                    </Picker>
-                                </View>
-                                <Text style={MyStyles.descriptionInput}>Raça:</Text>
-                                <View style={{ padding: 10 }}>
-                                    <Picker
-                                        selectedValue={props.values.race}
-                                        onValueChange={props.handleChange('race')}
-                                        itemStyle={{ fontSize: 14, height: 50, width: 130 }}
-                                    >
-                                        <Picker.Item label="Branca" value="Branca" />
-                                        <Picker.Item label="Preta" value="Preta" />
-                                        <Picker.Item label="Amarela" value="Amarela" />
-                                        <Picker.Item label="Parda" value="Parda" />
-                                        <Picker.Item label="Indígena" value="Indígena" />
-                                    </Picker>
-                                </View>
-                                <Text style={MyStyles.descriptionInput}>O cadastro é para jornalista, revista ou editora:</Text>
-                                <View style={{ padding: 10 }}>
-                                    <Picker
-                                        selectedValue={props.values.journalist}
-                                        onValueChange={props.handleChange('journalist')}
-                                        itemStyle={{ fontSize: RFValue(16, 844), height: 50, width: 130 }}
-                                    >
-                                        <Picker.Item label="Não" value="Não" />
-                                        <Picker.Item label="Sim" value="Sim" />
                                     </Picker>
                                 </View>
                                 <View style={{ width: 150, alignSelf: 'center', borderRadius: 20 }}>
