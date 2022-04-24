@@ -31,28 +31,28 @@ const styles = StyleSheet.create({
     height: '100%',
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center'
+    justifyContent: 'center',
+
   },
   icon_true: {
     position: 'absolute',
-    left: 10,
+    left: 5,
     width: 20,
     height: 30,
   },
   icon_false: {
     position: 'absolute',
-    left: 10,
+    left: 5,
     width: 0,
     height: 0,
   },
-  text_true: {
-    fontFamily: 'Oswald-Bold',
-    fontSize: RFValue(22, 844),
-    letterSpacing: 0.75,
-    left: -10,
+  text_true: { 
+    fontSize: RFValue(24, 844),
+    fontWeight: '600',
+    letterSpacing: 0.85,
+    left: -15,
     textAlign: 'center',
-
-    color: '#023047'
+    color: 'white'
   },
   text_false: {
     fontFamily: 'Oswald-Bold',

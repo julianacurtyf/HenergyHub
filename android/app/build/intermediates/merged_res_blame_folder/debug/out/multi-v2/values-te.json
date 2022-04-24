@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marco\\Documents\\ReactNative\\Juliana\\appName\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
+            "outputFile": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\marco\\.gradle\\caches\\transforms-3\\0e1fcb0115600141ea6b47249b31c449\\transformed\\appcompat-1.3.0\\res\\values-te\\values-te.xml",
@@ -35,23 +35,6 @@
                         "startOffsets": "2847,2957,3111,3241,3356,3493,3618,3723,3963,4112,4224,4377,4509,4660,4823,4887,4957",
                         "endColumns": "109,153,129,114,136,124,104,99,148,111,152,131,150,162,63,69,81",
                         "endOffsets": "2952,3106,3236,3351,3488,3613,3718,3818,4107,4219,4372,4504,4655,4818,4882,4952,5034"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\marco\\.gradle\\caches\\transforms-3\\660f5689c8158e8c4d86c61523e9ff86\\transformed\\jetified-play-services-wallet-17.0.0\\res\\values-te\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "200",
-                        "endColumns": "106",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "5223",
-                        "endColumns": "110",
-                        "endOffsets": "5329"
                     }
                 },
                 {

@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         borderRadius: 5,
     },
     container_PRIMARY: {
-        backgroundColor: '#219EBC',
+        backgroundColor: '#000',
     },
     container_TERTIARY: {},
     text: {
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         color: 'white',
     },
     text_TERTIARY: {
-        color: 'gray',
+        color: 'black',
     },
 });
 

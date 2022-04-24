@@ -9,10 +9,27 @@ export const MyStyles = StyleSheet.create({
 
     root: {
         alignItems: 'center',
-        padding: 20,
+        paddingLeft: 20,
+        paddingRight: 20,
         flexDirection: 'column',
         backgroundColor: '#eee',
         flex: 1
+    },
+
+    home_text: {
+        fontFamily: 'Oswald-Bold',
+        fontSize: RFValue(26, 844),
+        letterSpacing: 0.75,
+
+        textAlign: 'center',
+        backgroundColor: 'black',
+        borderBottomLeftRadius: (windowWidth - 80),
+        borderBottomRightRadius: (windowWidth - 80) ,
+
+        color: 'white',
+        padding: 40, 
+        width: (windowWidth),
+        height: 150
     },
 
     container: {
@@ -21,45 +38,6 @@ export const MyStyles = StyleSheet.create({
         borderTopLeftRadius: 10,
         borderTopRightRadius: 10,
         flex: 1
-    },
-
-    container1: {
-        flexDirection: 'column',
-        backgroundColor: '#023047',
-        flex: 1
-    },
-
-    textcontainer: {
-        textAlign: 'center',
-        paddingTop: 10,
-    },
-
-    containerTitle: {
-        marginTop: 10,
-        paddingBottom: 7,
-        paddingLeft: 20,
-    },
-
-    containerText: {
-        marginTop: 10,
-        paddingBottom: 7,
-        paddingLeft: 20,
-        backgroundColor: '#eee',
-    },
-
-    carouselContainer: {
-        justifyContent: 'center',
-        padding: 20,
-        borderRadius: 10
-    },
-
-    containerPicker: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        justifyContent: 'flex-start',
-        alignContent: 'flex-start',
-        padding: 10,
-        paddingLeft: 20,
     },
 
     inputContainer: {
@@ -74,145 +52,75 @@ export const MyStyles = StyleSheet.create({
         marginVertical: 10,
     },
 
-    containerSubs: {
-        backgroundColor: '#eee',
-        width: (windowWidth - 30),
-        padding: 15,
-        margin: 15,
-        alignItems: 'center',
-        borderRadius: 15,
-        marginTop: 30,
-
-    },
 
     barChart: {
         justifyContent: 'center',
-        paddingLeft: 20,
-        marginRight: 30,
+        //paddingLeft: 20,
+        margin: 15,
+        backgroundColor: 'white',
+        borderRadius: 15,
     },
 
 
     // Texts
 
     title: {
-        fontFamily: 'Oswald-Bold',
         fontSize: RFValue(26, 844),
         letterSpacing: 0.75,
-
-        margin: 3,
+        fontWeight: '700',
+        margin: 15,
         textAlign: 'center',
-
-        color: '#023047'
+        padding: 10,
+        color: '#000',
+        borderTopWidth: 3,
+        borderBottomWidth: 3,
     },
 
-    titleGray: {
-        fontFamily: 'Oswald-Bold',
+    title1: {
         fontSize: RFValue(26, 844),
         letterSpacing: 0.75,
-
-        paddingTop: 10,
-        margin: 3,
+        fontWeight: '700',
+        margin: 15,
         textAlign: 'center',
-
-        color: '#eee'
-    },
-
-    subtitle: {
-        fontFamily: 'Oswald-Regular',
-        fontSize: RFValue(21, 844),
-        letterSpacing: 0.75,
-
-        paddingLeft: 20,
-        margin: 5,
-        alignContent: 'flex-end',
-
-        color: '#023047',
-    },
-
-    subtitleGray: {
-        fontFamily: 'Oswald-Regular',
-        fontSize: RFValue(21, 844),
-        letterSpacing: 0.75,
-
-        paddingTop: 20,
-        paddingLeft: 20,
-        paddingBottom: 10,
-        margin: 5,
-        alignContent: 'flex-end',
-
-        color: '#eee',
-    },
-
-    subtitleSmall: {
-        fontFamily: 'Oswald-Regular',
-        fontSize: RFValue(18, 844),
-        letterSpacing: 0.75,
-
-        margin: 5,
-        paddingBottom: 10,
-        paddingRight: 10,
-        alignSelf: 'center',
-        marginTop: 10,
-        alignContent: 'stretch',
-
-        color: '#023047',
-    },
-
-    content: {
-        fontFamily: 'Oswald-Light',
-        letterSpacing: 0.75,
-
-        marginTop: 10,
-
-        color: '#eee',
+        padding: 10,
+        color: '#000',
     },
 
     contentPurple: {
-        fontFamily: 'Oswald-Light',
         letterSpacing: 0.75,
+        fontWeight: '700',
+        marginTop: 20,
 
+        color: '#000',
+    },
+
+    content: {
+        letterSpacing: 0.75,
+        fontWeight: '500',
         marginTop: 10,
 
-        color: '#023047',
-    },
-
-    text: {
-        fontFamily: 'Oswald-Bold',
-        fontSize: RFValue(25, 844),
-        letterSpacing: 0.75,
-
-        paddingTop: 5,
-        margin: 5,
-        marginBottom: 8,
-        textAlign: 'left',
-
-        color: '#023047',
-    },
-
-    textSmall: {
-        fontFamily: 'Oswald-Regular',
-        fontSize: RFValue(18, 844),
-        letterSpacing: 0.6,
-
-        paddingTop: 5,
-        margin: 5,
-        marginBottom: 8,
-        textAlign: 'center',
-
-        color: '#023047',
+        color: '#000',
     },
 
     textGray: {
-        fontFamily: 'Oswald-Bold',
-        fontSize: RFValue(23, 844),
+        fontSize: RFValue(26, 844),
         letterSpacing: 0.75,
+        fontWeight: '500',
+        textAlign: 'center',
+        color: 'white'
+    },
+
+    text: {
+        fontSize: RFValue(25, 844),
+        letterSpacing: 0.75,
+        fontWeight:'800',
 
         paddingTop: 5,
         margin: 5,
-        marginBottom: 8,
+        marginBottom: 30,
         textAlign: 'center',
 
-        color: '#eee',
+        color: '#000',
     },
 
     textTermosUso: {

@@ -21,14 +21,14 @@ import io.invertase.firebase.firestore.ReactNativeFirebaseFirestorePackage;
 import com.reactnativecommunity.picker.RNCPickerPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
-// react-native-payments
-import com.reactnativepayments.ReactNativePaymentsPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
+// react-native-smtp-mailer
+import com.rnsmtpmailer.RNSmtpMailerPackage;
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
 
@@ -81,10 +81,10 @@ public class PackageList {
       new ReactNativeFirebaseFirestorePackage(),
       new RNCPickerPackage(),
       new RNGestureHandlerPackage(),
-      new ReactNativePaymentsPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
+      new RNSmtpMailerPackage(),
       new SvgPackage()
     ));
   }
