@@ -1,2 +1,0 @@
-objc[56820]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libauthinstall.dylib (0x20411eb90) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103d402c8). One of the two will be used. Which one is undefined.
-objc[56820]: Class AMSupportURLSession is implemented in both /usr/lib/libauthinstall.dylib (0x20411ebe0) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103d40318). One of the two will be used. Which one is undefined.
