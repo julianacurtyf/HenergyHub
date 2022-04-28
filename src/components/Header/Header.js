@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View, Image, TouchableOpacity, Dimensions } from "react-native";
-import Logo from '../../../assets/images/logo.png';
+import Logo from '../../../assets/images/logo.jpeg';
 import Menu from '../../../assets/images/menu.png';
 import { RFValue } from "react-native-responsive-fontsize";
 

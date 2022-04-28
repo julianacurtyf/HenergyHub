@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { RefreshControl, View, Text, ScrollView, Image, useWindowDimensions } from "react-native";
-import MyBarChart from '../../components/BarChart';
 import { MyStyles } from '../../../assets/style/MyStyles';
 import { VictoryBar, VictoryChart, VictoryAxis, VictoryTheme, VictoryStack, VictoryLine, VictoryLabel, VictoryLegend } from 'victory-native';
 import CustomButton from '../../components/CustomButton';

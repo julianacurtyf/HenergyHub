@@ -1350,7 +1350,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable assets_images_anual
 drawable assets_images_bolsonaro
+drawable assets_images_daily
 drawable assets_images_gov_ac_gladson
 drawable assets_images_gov_ac_hall
 drawable assets_images_gov_ac_jorge
@@ -1486,10 +1488,15 @@ drawable assets_images_gov_to_dimas
 drawable assets_images_gov_to_laurez
 drawable assets_images_gov_to_luana
 drawable assets_images_gov_to_mourao
+drawable assets_images_home_back
+drawable assets_images_home_data
 drawable assets_images_home_email
+drawable assets_images_home_faq
 drawable assets_images_home_plan
+drawable assets_images_home_prev
 drawable assets_images_home_stats
 drawable assets_images_home_vote
+drawable assets_images_logo
 drawable assets_images_logo2
 drawable assets_images_logo2_v1
 drawable assets_images_logo3

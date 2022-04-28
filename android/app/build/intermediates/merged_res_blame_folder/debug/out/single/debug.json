@@ -24,6 +24,10 @@
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_janones.png"
     },
     {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_back.jpg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_back.jpg"
+    },
+    {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo3.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo3.jpg"
     },
@@ -106,6 +110,10 @@
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_pres_avila.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pres_avila.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_data.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_data.png"
     },
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_al_jhc.jpg.flat",
@@ -532,6 +540,10 @@
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rj_ganime.jpg"
     },
     {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo.jpeg.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo.jpeg"
+    },
+    {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_vote.png.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_vote.png"
     },
@@ -558,6 +570,10 @@
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_ac_leite.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_ac_leite.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_anual.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_anual.png"
     },
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rn_benes.jpg.flat",
@@ -660,6 +676,10 @@
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sp_haddad.jpg"
     },
     {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_daily.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_daily.png"
+    },
+    {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_rr_pastor.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_rr_pastor.jpg"
     },
@@ -688,12 +708,20 @@
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_am_pazuello.jpg"
     },
     {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_prev.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_prev.png"
+    },
+    {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_sc_coruja.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_gov_sc_coruja.jpg"
     },
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_logo2_v1.jpg.flat",
         "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logo2_v1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_home_faq.png.flat",
+        "source": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_home_faq.png"
     },
     {
         "merged": "C:\\Users\\marco\\Documents\\ReactNative\\HenergyHub\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_images_gov_pe_arnaldo.jpg.flat",
